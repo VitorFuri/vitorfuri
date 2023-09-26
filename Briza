@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brisa</title>
+</head>
+<body>
+    <video width="640" height="360" controls autoplay>
+        <source src="file:///C:/Users/Lucin%C3%A9ia%20Alves/Downloads/Idenpedente%20de%20tudo%20que%20nossa%20amizade%20nunca%20acabe.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+    </video>
+</body>
+</html>
